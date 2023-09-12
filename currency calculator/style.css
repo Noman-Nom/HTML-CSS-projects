@@ -60,3 +60,14 @@ body{
         font-size: 18px;
 
 }
+.container__fields label{
+    position: relative;
+    top: 70px;
+    left :10px; 
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: 400;
+    color: yellow;
+   
+
+}
